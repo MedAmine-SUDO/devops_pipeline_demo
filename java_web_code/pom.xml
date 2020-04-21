@@ -54,7 +54,10 @@
         </dependency>
     </dependencies>
 
-  
+  <properties>
+    <maven.compiler.release>7</maven.compiler.release>
+</properties>
+         
     <build>
     <plugins>
              <plugin>
